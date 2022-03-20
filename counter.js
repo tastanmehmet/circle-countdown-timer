@@ -1,5 +1,3 @@
-// Credit: Mateusz Rybczonec
-
 const FULL_DASH_ARRAY = 283;
 const TIME_LIMIT = 20;
 let timePassed = 0;
